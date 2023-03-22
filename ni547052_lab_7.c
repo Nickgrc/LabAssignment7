@@ -17,7 +17,7 @@ void bubbleSort(int arr[], int n)
                 counter++;
             }
         }
-    printf("pass #%d: %d\n", g+1, counter); 
+    printf("pass #%d: %d\n", g+1, counter);
     counter = 0;  
     }    
 }
